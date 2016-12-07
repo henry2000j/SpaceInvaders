@@ -16,5 +16,6 @@ class Invaders(turtle.Turtle):
         
         
 Invaders()
-        
+
+print("Hello World")
     
